@@ -1,1 +1,3 @@
 Se agregó el tablero de tableau
+
+Se agregó documentación
